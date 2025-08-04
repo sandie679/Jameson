@@ -54,6 +54,12 @@ body{
    }
 
 }
+.hamburger {
+  display: none;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
 .menu{
     display: none;
     position: fixed;
@@ -615,12 +621,6 @@ body{
     }
 }
 
-         
-
-
-
-
-
 
     } 
     
@@ -661,11 +661,6 @@ body{
     }
     
 }
-
-
-
-
-
 
 
 @media (max-width :576px) {
@@ -866,8 +861,11 @@ body{
            }
 }
     }
+
+    
 }
 }
+
 
 
     

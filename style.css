@@ -50,6 +50,12 @@ body {
   height: 40px;
   color: white;
 }
+.banner .hamburger {
+  display: none;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
 .banner .menu {
   display: none;
   position: fixed;
